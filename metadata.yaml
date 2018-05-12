@@ -1,9 +1,13 @@
 _repo: Petrarch-s-Letters-to-Classical-Authors_47859
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Cosenza, Mario
     gutenberg_agent_id: '44504'
     url: http://www.gutenberg.org/2009/agents/44504
+covers:
+- cover_type: archival
+  image_path: 47859-h/images/cover.jpg
 creator:
   author:
     agent_name: Petrarca, Francesco
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7519
     wikipedia: http://en.wikipedia.org/wiki/Petrarch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47859#Petrarch-s-Letters-to-Classical-Authors
 gutenberg_issued: '2015-01-03'
 gutenberg_type: Text
 identifiers:
